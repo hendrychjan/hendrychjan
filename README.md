@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**hendrychjan/hendrychjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS student based in Pardubice, Czech Republic.
 
-Here are some ideas to get you started:
+On the programming side of things, I enjoy working within the MERN web dev stack - React.js, Node.js and the beautiful MongoDB. I also did a few basic mobile apps using Flutter and with a help o Python I peeked into the world of Raspberry Pi. I've also learned the very basics of Java, C# and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides programming, I am really into music. I play drums, guitar and flute. I also like climbing and photography and travelling.
+
+I've participated twice on the Erasmus+ projects, creating aids for handicapped children and creating educational videos.
+
+I'd love to collaborate on some international project, to gain new experiences, improve my coding skills and have fun with other developers.
+
+_In case you want to contact me, you can do so through my email: jan.honza.hendrych@gmail.com_
+
+To close up this bio, I'd love to share my favorite quote:
+>“Straight ahead you can't go very far." - Antoine de Saint-Exupéry
