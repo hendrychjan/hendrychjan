@@ -19,3 +19,15 @@ To close up this bio, I'd love to share my favorite quote:
 **Billy**
 - a simple mobile app to keep track of your debts made in Flutter
 - [download for Android](https://drive.google.com/file/d/1FQGEjjnsTLquKWnKXiiz-81wxIfobuMd/view?usp=sharing)
+- [source code](https://github.com/hendrychjan/Billy)
+
+**LanChat**
+- a multiplatform socket-based chat room written in Java
+- [download client](https://drive.google.com/file/d/1k8-fko0NLI-10ux9BR7uscECMg60B6is/view?usp=sharing)
+- [download server](https://drive.google.com/file/d/1k8-fko0NLI-10ux9BR7uscECMg60B6is/view?usp=sharing)
+- source code: [client](https://github.com/hendrychjan/LanChat-client), [server](https://github.com/hendrychjan/LanChat-server) 
+
+**valt-rpi**
+- educational video which explains how to connect the BMP280 temperature sensor to Raspberry Pi and control it using Python
+- [repository](https://github.com/hendrychjan/valt-rpi)
+- [video](https://www.youtube.com/watch?v=apV93MXHwkA)
