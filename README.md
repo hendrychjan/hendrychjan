@@ -14,3 +14,8 @@ _In case you want to contact me, you can do so through my email: jan.honza.hendr
 
 To close up this bio, I'd love to share my favorite quote:
 >“Straight ahead you can't go very far." - Antoine de Saint-Exupéry
+
+### My work
+**Billy**
+- a simple mobile app to keep track of your debts made in Flutter
+- [download for Android](https://drive.google.com/file/d/1FQGEjjnsTLquKWnKXiiz-81wxIfobuMd/view?usp=sharing)
