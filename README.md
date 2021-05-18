@@ -16,6 +16,10 @@ To close up this bio, I'd love to share my favorite quote:
 >“Straight ahead you can't go very far." - Antoine de Saint-Exupéry
 
 ### My work
+**Work for clients**
+- I did a few custom mobile applications for my clients, using the [jaudelam.cz](https://www.jaudelam.cz/) platform, one was for a car shop and the other one for an architect
+- you can hire me [here](https://www.jaudelam.cz/profil/hlpsoftwaredevelopment)
+
 **Billy**
 - a simple mobile app to keep track of your debts made in Flutter
 - [download for Android](https://drive.google.com/file/d/1FQGEjjnsTLquKWnKXiiz-81wxIfobuMd/view?usp=sharing)
