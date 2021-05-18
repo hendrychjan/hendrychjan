@@ -22,6 +22,9 @@ To close up this bio, I'd love to share my favorite quote:
 - I used technologies such as **Xamarin** or **Flutter**, and recieved positive rating from all of my clients
 - you can hire me [here](https://www.jaudelam.cz/profil/hlpsoftwaredevelopment)
 
+**Librovna**
+- custom web app for managing books in private library (done using the **MERN** stack and published on **Heroku**)
+
 **Billy**
 - a simple mobile app to keep track of your debts made in **Flutter**
 - [download for Android](https://drive.google.com/file/d/1FQGEjjnsTLquKWnKXiiz-81wxIfobuMd/view?usp=sharing)
