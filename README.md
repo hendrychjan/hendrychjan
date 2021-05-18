@@ -2,7 +2,7 @@
 
 I am a CS student based in Pardubice, Czech Republic.
 
-On the programming side of things, I enjoy working within the MERN web dev stack - React.js, Node.js and the beautiful MongoDB. I have also done a few basic mobile apps using Flutter and with the help of Python I peeked into the world of Raspberry Pi. I've also learned the very basics of Java, C# and TypeScript.
+On the programming side of things, I enjoy working within the MERN web dev stack - React.js, Node.js and MongoDB. I have also done a few basic mobile apps using Flutter and with the help of Python I peeked into the world of Raspberry Pi. I've also learned basics of Java, C#, TypeScript, Dart and of course SQL.
 
 Besides programming, I am really into music. I play drums, guitar and flute. I also like climbing and photography and travelling.
 
@@ -17,7 +17,9 @@ To close up this bio, I'd love to share my favorite quote:
 
 ### My work
 **Work for clients**
-- I did a few custom mobile applications for my clients, using the [jaudelam.cz](https://www.jaudelam.cz/) platform, one was for a car shop and the other one for an architect
+- I did a few custom mobile applications for my clients, using the [jaudelam.cz](https://www.jaudelam.cz/) platform
+- these were for instance one for automating workflow in a car shop, or other one, geological calculator for an architect
+- I used technologies such as Xamarin or Flutter, and recieved positive rating from all of my clients
 - you can hire me [here](https://www.jaudelam.cz/profil/hlpsoftwaredevelopment)
 
 **Billy**
