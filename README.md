@@ -2,7 +2,7 @@
 
 I am a CS student based in Pardubice, Czech Republic.
 
-On the programming side of things, I enjoy working within the MERN web dev stack - **React.js**, **Node.js** and **MongoDB**. I have also done a few basic mobile apps using **Flutter** and with the help of **Python** I peeked into the world of **Raspberry Pi**. I've also learned basics of **Java, C#, TypeScript, Dart and of course SQL.**
+On the programming side of things, I enjoy working within the MERN web dev stack - **React.js**, **Node.js** and **MongoDB**. I have also done a few basic mobile apps using **Flutter** and with the help of **Python** I peeked into the world of **Raspberry Pi**. I've also learned basics of **Java, C#, TypeScript, Dart** and of course **SQL.**
 
 Besides programming, I am really into music. I play drums, guitar and flute. I also like climbing and photography and travelling.
 
