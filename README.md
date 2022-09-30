@@ -28,7 +28,7 @@ _You can contact me via: jan.honza.hendrych@gmail.com_
 - I did a few custom mobile apps for my clients, using the [jaudelam.cz](https://www.jaudelam.cz/) platform
 - these were for instance one for automating workflow in a car shop, or other one, geological calculator for an architect
 - I used technologies such as **Xamarin** or **Flutter**, and recieved positive rating from all of my clients
-- you can hire me [here](https://www.jaudelam.cz/profil/hlpsoftwaredevelopment)
+- you can hire me [here](https://www.jaudelam.cz/profil/jan_hendrych)
 
 **Working in a SW development company**
 - during my high school studies, I joined Tsium for a while
