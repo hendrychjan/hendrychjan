@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a CS student based in Pardubice, Czech Republic.
+I am a CS student based in Prague, Czech Republic.
 
 On the programming side of things, I enjoy working within the MERN web dev stack - **React.js**, **Node.js** and **MongoDB**. I have also created a few  mobile apps using **Dart** with the **Flutter** framework. With the help of **Python** I peeked into the world of **Raspberry Pi**. I've also learned basics of technologies such as **Java, C#, TypeScript, SQL, Docker** and **Linux**. Last but not least - I use Arch btw.
 
@@ -8,7 +8,7 @@ Besides programming, I am really into music. I play drums, guitar and flute. I a
 
 I studied on the Secondary school of Electrical Engineering (an equivalent of high school in Czech Republic). During my studies there, I had participated on two different Erasmus+ projects, I was successful in the AMAVET student contest and in the spring of 2022 graduated with all 'A's.
 
-As of fall 2022, I will be studying at the Faculty of Information Technology at ČVUT in Prague.
+As of fall 2022, I am studying at the Faculty of Information Technology at CTU in Prague.
 
 I'd love to collaborate on some international projects, gain new experiences, improve my coding skills and have fun with other developers.
 
