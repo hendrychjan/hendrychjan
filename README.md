@@ -1,50 +1,54 @@
 ### Hi there 👋
 
-I am a CS student based in Prague, Czech Republic.
+My name is Honza, I am a CS student at FIT CTU in Prague, Czech Republic. My professional focus lies within the domain of IT, where I specialize in networks, IoT, web apps backend, and mobile development.
 
-On the programming side of things, I enjoy working within the MERN web dev stack - **React.js**, **Node.js** and **MongoDB**. I have also created a few  mobile apps using **Dart** with the **Flutter** framework. With the help of **Python** I peeked into the world of **Raspberry Pi**. I've also learned basics of technologies such as **Java, C#, TypeScript, SQL, Docker** and **Linux**. Last but not least - I use Arch btw.
+I have a profound appreciation for Open-Source Software and enjoy delving into its vast ecosystem. Utilizing GNU/Linux for both my hobby projects, and as my daily driver, and actively trying to contribute to the community by open-sourcing all of my work, embodying the ethos of collaboration and transparency in software development.
 
-Besides programming, I am really into music. I play drums, guitar and flute. I also like mountain climbing, analog photography and travelling generally.
+Beyond the screen, I'm a passionate musician and an adventurous soul who finds solace in mountain climbing and analog photography.
 
-I studied on the Secondary school of Electrical Engineering (an equivalent of high school in Czech Republic). During my studies there, I had participated on two different Erasmus+ projects, I was successful in the AMAVET student contest and in the spring of 2022 graduated with all 'A's.
+## Education and certification
 
-As of fall 2022, I am studying at the Faculty of Information Technology at CTU in Prague.
+I graduated from the Secondary School of Electrical Engineering, achieving all As in my final exams. 
 
-I'd love to collaborate on some international projects, gain new experiences, improve my coding skills and have fun with other developers.
+Currently, I'm in the second year of pursuing a Bachelor's degree in Computer Science at the Czech Technical University (CTU) in Prague, where computer networks and computer systems are my primary field of study.
 
-_You can contact me via: jan.honza.hendrych@gmail.com_
+I have obtained Oracle certifications for "Database design" and "Database programming with SQL".
 
-### My experience
-**Erasmus+**
-- when I was at high school, I joined two different Erasmus+ projects, and visited many europian countries
-- together with my team, we created 3D aids for handicapped children and educational videos for schools
+## Technologies
+#### I use regularly...
+- Dart + Flutter
+- MERN stack - MongoDB, Express.js, React.js, Node.js
+- GNU/Linux
+- Arduino
+- SQL
+- git
 
-**EXPO SCIENCE Amavet**
-- [Amavet](http://amavet.fvtp.cz/?page_id=183(otev%C5%99e%20se%20na%20nov%C3%A9%20z%C3%A1lo%C5%BEce ) is a students projects contest in Czech Republic
-- hundreds of students participate every year, with different projects, not only from IT
-- with my project "Koishi", I had successfully advanced to the final national round, where I finished 7th, and recieved a special award from the dean of the Faculty of Nuclear Sciences and Physical Engineering at ČVUT.
+#### I know my way around...
+- C/C++
+- Bash
+- Docker
 
-**Freelancing**
-- I did a few custom mobile apps for my clients, using the [jaudelam.cz](https://www.jaudelam.cz/) platform
-- these were for instance one for automating workflow in a car shop, or other one, geological calculator for an architect
-- I used technologies such as **Xamarin** or **Flutter**, and recieved positive rating from all of my clients
-- you can hire me [here](https://www.jaudelam.cz/profil/jan_hendrych)
+#### I have used to some extent, have basic knowledge of...
+- Python
+- Java
+- C# - Xamarin, ASP.NET MVC
+- AVR Assembly
+- Verilog
+- Basic FPGA design
 
-**Working in a SW development company**
-- during my high school studies, I joined Tsium for a while
-- my job was to create a native mobile app for EventCatalogue - a catalogue of IT conferences
+## Experience
+#### Internship in a SW development company
+I interned at [Tsium](https://www.tsium.cz/), where my primary responsibility was to develop a native mobile app for a platform showcasing IT conferences. This experience not only allowed me to contribute to a real-world project and deepen my experience working with Flutter, but also provided me with valuable insights into working collaboratively in the tech industry.
 
-### My best projects
+#### Erasmus+
+During high school, I participated in two Erasmus+ projects where I collaborated with international teams from Czech Republic, Slovakia, Sweden, France, Bulgaria, and Greece. In one project, we developed [3D aids for handicapped children](https://projekty.spse.cz/3dahc/project.html), while in the other, we created different [educational videos](https://projekty.spse.cz/vamlte/). My roles varied from being a contributor to a team coordinator, allowing me to enhance my leadership and collaboration skills while working on impactful projects with diverse international teams.
 
-**Koishi**
-- a data collection and visualization platform
-- visit [koishi.nechapu.to](https://koishi.nechapu.to/) for more info
-- with this project, I succeeded at the EXPO SCIENCE Amavet contest
+#### Freelancing
+I did some freelancing using the [jaudelam.cz](https://www.jaudelam.cz/) platform, where I worked directly with clients to create custom mobile apps. This experience was invaluable in developing my abilities to engage with customers, manage expectations, handle payments, and oversee the entire development cycle from initial concept to the final product. Through this hands-on involvement, I gained a comprehensive understanding of the client-facing aspects of software development and cultivated project management skills.
 
-**Librovna**
-- custom web app for managing books in a private library (done using the **MERN** stack and published on **Heroku**)
+## Projects and achievements
+#### EXPO SCIENCE Amavet
+At the [EXPO SCIENCE Amavet contest](http://amavet.fvtp.cz/?p=985), which attracts hundreds of students showcasing different kinds of projects, I presented my project 'Koishi.' Advancing to the final national round, I achieved 7th place overall, earning a special award from the dean of the Faculty of Nuclear Sciences and Physical Engineering at CTU. This recognition not only highlighted my project's impact but also played a significant role in securing my admission to FIT CTU.
 
-**Billy**
-- a simple mobile app to keep track of your debts, which I made with **Flutter**
-- [download for Android](https://drive.google.com/file/d/1FQGEjjnsTLquKWnKXiiz-81wxIfobuMd/view?usp=sharing)
-- [source code](https://github.com/hendrychjan/Billy)
+#### Koishi
+Universal data visualization and collection platform. One of its standout features is its universality — you can input data through a classic web GUI, a mobile app, a REST API, or even a WebSocket API for real-time data. Users can then set up graphs to visualize the data efficiently. Koishi's versatility and innovative approach contributed to its success, including achieving 7th place in the Amavet contest previously mentioned.
