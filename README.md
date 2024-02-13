@@ -10,7 +10,7 @@ Beyond the screen, I'm a passionate musician and an adventurous soul who finds s
 
 I graduated from the Secondary School of Electrical Engineering, achieving all As in my final exams. 
 
-Currently, I'm in the second year of pursuing a Bachelor's degree in Computer Science at the Czech Technical University (CTU) in Prague, where computer networks and computer systems are my primary field of study.
+Currently, I'm in the second year of pursuing a Bachelor's degree in Computer Science at the Faculty of Information Technology of the Czech Technical University (CTU) in Prague, where computer systems and networks are my primary field of study.
 
 I have obtained Oracle certifications for "Database design" and "Database programming with SQL".
 
